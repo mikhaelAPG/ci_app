@@ -32,7 +32,10 @@ $routes->setAutoRoute(true);
 
 // We get a performance increase by specifying the default
 // route since we don't have to scan directories.
+<<<<<<< HEAD
 
+=======
+>>>>>>> c52002f3e386b1777ee8edc94acc411552d361e5
 $routes->get('/', 'Pages::index');
 
 /*
