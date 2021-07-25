@@ -1,17 +1,3 @@
-<!doctype html>
-<html lang="en">
-    <head>
-        <!-- Required meta tags -->
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-        <!-- Bootstrap CSS -->
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
-
-        <title><?= $title; ?></title>
-    </head>
-<body>
-
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container">
         <a class="navbar-brand" href="#">Navbar</a>
@@ -22,7 +8,7 @@
             <div class="navbar-nav">
                 <a class="nav-link active" href="/">Home <span class="sr-only">(current)</span></a>
                 <a class="nav-link" href="/pages/about">About</a>
-                <a class="nav-link" href="#">Contact</a>
+                <a class="nav-link" href="/pages/contact">Contact</a>
             </div>
         </div>
     </div>
